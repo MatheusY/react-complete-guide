@@ -3,7 +3,6 @@ import ExpenseDate from './ExpenseDate';
 import Card from '../UI/Card';
 
 const ExpenseItem = (props) => {
-  console.log('ExpenseItem evaluated by react');
 
   return (
     <Card className="expense-item">
